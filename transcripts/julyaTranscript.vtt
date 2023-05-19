@@ -1,0 +1,817 @@
+WEBVTT
+
+1 "Nathan Hess" (711442944)
+00:00:00.000 --> 00:00:05.400
+Looks really well.
+
+2 "Nathan Hess" (711442944)
+00:00:05.400 --> 00:00:19.075
+Does the recording get sent to all of us or just me do you know how it works? It'll get sent it'll get sent to you and then you can share it, but it also it transcribes everything in real time. So there's Jack.
+
+3 "Nathan Hess" (711442944)
+00:00:19.105 --> 00:00:25.045
+Jack just dump that transcription into 1 of these generative ai tools and it.
+
+4 "Nathan Hess" (711442944)
+00:00:25.400 --> 00:00:30.990
+That pretty decent meeting summary, right?
+
+5 "Ryan Richards" (4172936192)
+00:00:30.990 --> 00:00:34.170
+Shockingly good. Yeah.
+
+6 "Julya Fridman" (1072131584)
+00:00:34.170 --> 00:00:37.620
+Like, into chat chat or something.
+
+7 "Nathan Hess" (711442944)
+00:00:37.620 --> 00:00:42.990
+Yeah, I'll share with you. We did that. We tested this out on the.
+
+8 "Nathan Hess" (711442944)
+00:00:42.990 --> 00:00:48.090
+Michael call a few weeks ago and.
+
+9 "Nathan Hess" (711442944)
+00:00:48.090 --> 00:00:51.180
+It worked for really well and so now.
+
+10 "Nathan Hess" (711442944)
+00:00:51.180 --> 00:00:55.020
+And I'm super excited about it. Wow.
+
+11 "Julya Fridman" (1072131584)
+00:00:55.020 --> 00:00:59.760
+Yeah, okay.
+
+12 "Nathan Hess" (711442944)
+00:00:59.760 --> 00:01:10.470
+I mean, you still have to go back through and do a little editing or whatever, but you would have to do that. Even if you were taking super detailed notes at the same time. So.
+
+13 "Julya Fridman" (1072131584)
+00:01:10.470 --> 00:01:17.220
+Very cool. Yeah.
+
+14 "Ryan Richards" (4172936192)
+00:01:25.710 --> 00:01:30.600
+Well, do we want to start with, um, Julie? I don't know if you have any.
+
+15 "Ryan Richards" (4172936192)
+00:01:30.600 --> 00:01:39.510
+Updates beyond what John wells has been sending out this morning on the upgrade and impact on that. Do you have anything else?
+
+16 "Julya Fridman" (1072131584)
+00:01:39.510 --> 00:01:47.850
+Um, I do have a little bit of an update on the Apple issue. Um, we, we had a call with Hi this morning.
+
+17 "Julya Fridman" (1072131584)
+00:01:47.850 --> 00:01:53.970
+Where he walked us through his proposed fixed.
+
+18 "Julya Fridman" (1072131584)
+00:01:53.970 --> 00:02:05.160
+Um, they're still working on it, um, but they, they believe they have a solution. It's not without, uh, some.
+
+19 "Julya Fridman" (1072131584)
+00:02:05.160 --> 00:02:19.050
+Uh, errors, um, but I think the bulk of the viewership can be restored, but there, he was walking us through John wells and I, through, um, some graphs that showed.
+
+20 "Julya Fridman" (1072131584)
+00:02:19.050 --> 00:02:23.100
+Um, you know, in about 80% of cases.
+
+21 "Julya Fridman" (1072131584)
+00:02:23.425 --> 00:02:38.215
+Uh, the appropriate network can be mapped to, uh, to the viewership or the, the viewership for the appropriate network and get extracted. However, in about 20% of the cases, um, they. they
+
+22 "Julya Fridman" (1072131584)
+00:02:38.490 --> 00:02:51.180
+Are not able to follow so they know that the customer, for example, is starting with spectrum news, but they cannot see what happens afterwards. And so, uh, the question was.
+
+23 "Julya Fridman" (1072131584)
+00:02:51.180 --> 00:03:00.600
+Uh, what do we want to do with that data? Do we just, uh, not assign a network and program to it but just put it in some, um, bucket.
+
+24 "Julya Fridman" (1072131584)
+00:03:00.600 --> 00:03:05.760
+Of usage where, you know, for us overall, we will know that.
+
+25 "Julya Fridman" (1072131584)
+00:03:05.760 --> 00:03:12.720
+Viewership happened somewhere, but we wouldn't be able to attribute it to a particular network and so.
+
+26 "Julya Fridman" (1072131584)
+00:03:12.720 --> 00:03:23.695
+We decided that, you know, for spectrum news, and for all the rest of the networks, uh, in those instances, we should just put it in all other usage bucket.
+
+27 "Julya Fridman" (1072131584)
+00:03:24.175 --> 00:03:32.695
+So, um, every network's viewership will be slightly understated. Um, but not not by.
+
+28 "Julya Fridman" (1072131584)
+00:03:32.720 --> 00:03:35.790
+20% by, you know, maybe by.
+
+29 "Julya Fridman" (1072131584)
+00:03:35.790 --> 00:03:49.560
+You know, 5 to 10%, uh, but at least we'll get the bulk of the data back end. So, I don't think for you guys given that, it's just Apple TV data. I don't think it's gonna be dramatically.
+
+30 "Julya Fridman" (1072131584)
+00:03:49.560 --> 00:03:59.160
+You know, dramatically will impact, um, any trending given that we'll probably have about 90% of viewership back in.
+
+31 "Julya Fridman" (1072131584)
+00:03:59.160 --> 00:04:07.710
+So, okay, so then, that yeah, do they have a sense of was it con, the, the 20% of.
+
+32 "Ryan Richards" (4172936192)
+00:04:07.710 --> 00:04:13.740
+Accounts that they can't correctly map. Is that kind of spread out across.
+
+33 "Julya Fridman" (1072131584)
+00:04:13.740 --> 00:04:19.800
+Geographies customer types. Yeah. Yeah. It seems it seemed like it was spread out.
+
+34 "Julya Fridman" (1072131584)
+00:04:19.800 --> 00:04:22.920
+Across across apps.
+
+35 "Julya Fridman" (1072131584)
+00:04:22.920 --> 00:04:29.609
+So, for spectrum for SDA, and for, I didn't, I didn't ask about.
+
+36 "Julya Fridman" (1072131584)
+00:04:29.609 --> 00:04:32.609
+That's a good point. I didn't ask about geographies.
+
+37 "Julya Fridman" (1072131584)
+00:04:32.609 --> 00:04:40.769
+Um, so, let me, uh, let me ping him and see if he can look at it. Uh.
+
+38 "Julya Fridman" (1072131584)
+00:04:40.769 --> 00:04:47.459
+By geography by market to see if there is any patterns there.
+
+39 "Julya Fridman" (1072131584)
+00:04:47.459 --> 00:04:52.229
+Okay.
+
+40 "Julya Fridman" (1072131584)
+00:04:52.229 --> 00:04:58.499
+But that's the only update I have, I don't know, gave, em, if you have anything.
+
+41 "Guillaume Schwengler" (489824000)
+00:04:58.499 --> 00:05:04.499
+Mm, hmm while you've seen the upgrade 1 through over this weekend.
+
+42 "Guillaume Schwengler" (489824000)
+00:05:04.499 --> 00:05:14.129
+So, now I will be working and reloading the March, uh, data aggregate. They didn't get to do it before the gate. So.
+
+43 "Guillaume Schwengler" (489824000)
+00:05:14.129 --> 00:05:24.959
+There are time to do February and then I'm working on March so will soon have the engagement numbers for March 2023.
+
+44 "Nathan Hess" (711442944)
+00:05:24.959 --> 00:05:29.189
+You've been looking at the February data, and it's been reloaded at all.
+
+45 "Guillaume Schwengler" (489824000)
+00:05:29.189 --> 00:05:33.779
+I haven't yet. No, I was planning to do it today.
+
+46 "Guillaume Schwengler" (489824000)
+00:05:33.779 --> 00:05:41.729
+You've seen something that's off, uh.
+
+47 "Nathan Hess" (711442944)
+00:05:41.729 --> 00:05:48.089
+Not necessarily off, um.
+
+48 "Nathan Hess" (711442944)
+00:05:48.089 --> 00:05:54.479
+That is what we are looking at earlier right? Ryan.
+
+49 "Ryan Richards" (4172936192)
+00:05:54.479 --> 00:05:57.659
+Which 1, are you referring to.
+
+50 "Nathan Hess" (711442944)
+00:05:57.659 --> 00:06:01.289
+The share.
+
+51 "Nathan Hess" (711442944)
+00:06:01.289 --> 00:06:06.239
+Uh, and the Android device data.
+
+52 "Ryan Richards" (4172936192)
+00:06:06.239 --> 00:06:10.049
+Uh, well, I don't think that was particular to February, so.
+
+53 "Ryan Richards" (4172936192)
+00:06:10.049 --> 00:06:14.849
+We yeah, we pull the topics. Sorry.
+
+54 "Ryan Richards" (4172936192)
+00:06:14.849 --> 00:06:18.659
+Um, pulled.
+
+55 "Ryan Richards" (4172936192)
+00:06:18.659 --> 00:06:24.899
+The share viewership coming from set top box and then our apps.
+
+56 "Ryan Richards" (4172936192)
+00:06:24.899 --> 00:06:29.759
+And with whatever data fixes happen, and it seems to have.
+
+57 "Ryan Richards" (4172936192)
+00:06:29.759 --> 00:06:34.829
+Significantly changed those from what we had as a.
+
+58 "Ryan Richards" (4172936192)
+00:06:34.829 --> 00:06:37.949
+As recently a couple of months ago, I think.
+
+59 "Ryan Richards" (4172936192)
+00:06:37.949 --> 00:06:46.559
+Um, so now, FDA is like, 32, almost of all of our viewership.
+
+60 "Ryan Richards" (4172936192)
+00:06:46.559 --> 00:06:51.839
+Or set top boxes 68.
+
+61 "Ryan Richards" (4172936192)
+00:06:51.839 --> 00:06:57.539
+Does that surprise you at all Jim and Julia?
+
+62 "Guillaume Schwengler" (489824000)
+00:06:57.539 --> 00:07:01.409
+We had that number somewhere.
+
+63 "Julya Fridman" (1072131584)
+00:07:01.409 --> 00:07:06.299
+But it went from from the teams to 38%.
+
+64 "Ryan Richards" (4172936192)
+00:07:06.299 --> 00:07:09.869
+42, um.
+
+65 "Ryan Richards" (4172936192)
+00:07:09.869 --> 00:07:15.779
+Q, and what was the, what was the latest percent you had on hand?
+
+66 "Ryan Richards" (4172936192)
+00:07:15.779 --> 00:07:22.619
+You 1st shared with me uh, it was 24%.
+
+67 "Keelan Gallagher" (3329018880)
+00:07:22.619 --> 00:07:27.839
+But from an older dataset that we had pulled, I'm guessing in March.
+
+68 "Ryan Richards" (4172936192)
+00:07:27.839 --> 00:07:34.619
+Yeah, oh, yeah, I see it on the thread now. So from March earlier this year that we had pulled 26%.
+
+69 "Ryan Richards" (4172936192)
+00:07:34.619 --> 00:07:39.389
+3, 6%.
+
+70 "Julya Fridman" (1072131584)
+00:07:39.389 --> 00:07:44.399
+Hold on, it seems high to.
+
+71 "Julya Fridman" (1072131584)
+00:07:44.399 --> 00:07:54.449
+I have open somewhere.
+
+72 "Julya Fridman" (1072131584)
+00:07:54.449 --> 00:07:59.219
+So overall.
+
+73 "Julya Fridman" (1072131584)
+00:07:59.219 --> 00:08:06.329
+Across all networks set, top boxes. 83% is.
+
+74 "Julya Fridman" (1072131584)
+00:08:06.329 --> 00:08:14.759
+17%, and you're saying you saying specifically is.
+
+75 "Julya Fridman" (1072131584)
+00:08:14.759 --> 00:08:21.299
+30, uh, 32% of what.
+
+76 "Ryan Richards" (4172936192)
+00:08:21.299 --> 00:08:28.109
+All of our video new households. Oh, yeah. Is that households are viewing ours?
+
+77 "Julya Fridman" (1072131584)
+00:08:28.109 --> 00:08:35.579
+Oh, if possible, I, I believe it. Yeah, no uh, not not usage right? Households.
+
+78 "Keelan Gallagher" (3329018880)
+00:08:35.579 --> 00:08:39.119
+And we can pull the usage, we can pull like, station hours.
+
+79 "Julya Fridman" (1072131584)
+00:08:39.119 --> 00:08:44.009
+If you can pull usage, uh, that would be.
+
+80 "Julya Fridman" (1072131584)
+00:08:44.009 --> 00:08:47.759
+Uh, easier to compare. Okay.
+
+81 "Guillaume Schwengler" (489824000)
+00:08:47.759 --> 00:09:00.659
+The latest number I found in 1 of the decks I heard was August 2022. I had usage, um, 16.
+
+82 "Guillaume Schwengler" (489824000)
+00:09:00.659 --> 00:09:07.259
+And the rest was set top box it changes a little bit by markets.
+
+83 "Guillaume Schwengler" (489824000)
+00:09:07.259 --> 00:09:11.819
+Like, Florida was most 17%, New York City.
+
+84 "Julya Fridman" (1072131584)
+00:09:11.819 --> 00:09:24.089
+9% it should be it should be higher now, probably like 17% or so you weren't you weren't expecting a significant jump from this data.
+
+85 "Julya Fridman" (1072131584)
+00:09:24.089 --> 00:09:29.219
+Release I wouldn't expect any job. Like, it's just the.
+
+86 "Julya Fridman" (1072131584)
+00:09:29.219 --> 00:09:33.299
+Right. Like oh, wait, wait, wait, we fixed Android.
+
+87 "Julya Fridman" (1072131584)
+00:09:33.299 --> 00:09:37.979
+Uh, in this data, right? Right.
+
+88 "Julya Fridman" (1072131584)
+00:09:37.979 --> 00:09:44.039
+Um, but that's but the Android issue started.
+
+89 "Julya Fridman" (1072131584)
+00:09:44.039 --> 00:09:51.899
+In February, so if you compare it to January.
+
+90 "Julya Fridman" (1072131584)
+00:09:51.899 --> 00:09:55.199
+I mean, it should be in line.
+
+91 "Ryan Richards" (4172936192)
+00:09:59.549 --> 00:10:06.809
+All right okay. And can you work with Jim? Can you just show them how you pull the data? The exact data you have? Because those numbers are and.
+
+92 "Ryan Richards" (4172936192)
+00:10:06.809 --> 00:10:09.899
+I want to get that straight, um.
+
+93 "Keelan Gallagher" (3329018880)
+00:10:09.899 --> 00:10:14.909
+Yeah, we'll pull we'll pull station hours and we'll we'll look at it at.
+
+94 "Julya Fridman" (1072131584)
+00:10:14.909 --> 00:10:22.739
+Yeah, Jim, Jim, you have different you, you've created different trending, right?
+
+95 "Guillaume Schwengler" (489824000)
+00:10:22.739 --> 00:10:37.289
+Uh, I think, no, we had 1 is a pie chart when we tracked the launch of the apps where we had, I was coming from set the box I was coming from and I was coming from the up.
+
+96 "Julya Fridman" (1072131584)
+00:10:37.289 --> 00:10:48.749
+But then tracking it, but do you have anything more recent than, uh, since the launch of the apps? That would have been a few years ago, right?
+
+97 "Guillaume Schwengler" (489824000)
+00:10:48.749 --> 00:10:53.129
+This 1 was the latest I was August 2022.
+
+98 "Guillaume Schwengler" (489824000)
+00:10:53.129 --> 00:10:57.719
+Right. Um, let's see, you.
+
+99 "Julya Fridman" (1072131584)
+00:10:57.719 --> 00:11:02.009
+But either way, I mean, if we pull January data and compare it to.
+
+100 "Julya Fridman" (1072131584)
+00:11:02.009 --> 00:11:09.629
+Um, the new restate the data it shouldn't directionally be dramatically different. I don't think.
+
+101 "Keelan Gallagher" (3329018880)
+00:11:13.859 --> 00:11:16.979
+I'm running it right now. I'll probably know now, in a few minutes.
+
+102 "Ryan Richards" (4172936192)
+00:11:16.979 --> 00:11:28.199
+Okay on that topic I wanted to check in to see Julie. I think you said, oh, a little while back you're going to connect with someone on the latest from.
+
+103 "Ryan Richards" (4172936192)
+00:11:28.199 --> 00:11:35.129
+What Katy, Donna and her team, like next steps for power on on.
+
+104 "Ryan Richards" (4172936192)
+00:11:35.129 --> 00:11:40.289
+She told me last week.
+
+105 "Julya Fridman" (1072131584)
+00:11:40.289 --> 00:11:48.389
+Uh, that she did not, uh, get anything back from Katie. Uh.
+
+106 "Julya Fridman" (1072131584)
+00:11:48.389 --> 00:11:53.879
+Maybe we just need to what, what exactly she is, she investigating.
+
+107 "Julya Fridman" (1072131584)
+00:11:53.879 --> 00:11:57.959
+The pylon or the so.
+
+108 "Ryan Richards" (4172936192)
+00:11:57.959 --> 00:12:01.919
+From that last time that we all met together, it.
+
+109 "Ryan Richards" (4172936192)
+00:12:02.634 --> 00:12:16.164
+Nathan, and, and step in here too, if there's anything I'm missing here, but the, what I recall is that on Apple TV, we, we need to switch up the rules for, like, what constitutes power on. Right?
+
+110 "Ryan Richards" (4172936192)
+00:12:16.164 --> 00:12:21.474
+Because as it currently stands, you have to close out of the app for it to.
+
+111 "Ryan Richards" (4172936192)
+00:12:21.919 --> 00:12:32.429
+And power on to spectrum news. Okay. Um, so it's really about like, redefining what exactly power on means on the connected.
+
+112 "Ryan Richards" (4172936192)
+00:12:32.429 --> 00:12:36.899
+Tv device apps that was specific to Apple TV, right?
+
+113 "Ryan Richards" (4172936192)
+00:12:36.899 --> 00:12:43.619
+Yeah, but we should, we should make sure that it's aligned across all the platforms because.
+
+114 "Ryan Richards" (4172936192)
+00:12:43.619 --> 00:12:52.589
+Who knows for the other ones, if there's slight differences that could make a significant impact on the actual.
+
+115 "Ryan Richards" (4172936192)
+00:12:52.589 --> 00:12:56.609
+Amount of times people are saying spectrum is when it comes on.
+
+116 "Julya Fridman" (1072131584)
+00:12:56.609 --> 00:13:04.019
+So, it's basically, if you, if you get out of the app and then come back within a certain period of time.
+
+117 "Julya Fridman" (1072131584)
+00:13:04.019 --> 00:13:10.649
+It doesn't, uh, power on you, uh, unless unless you've been out.
+
+118 "Ryan Richards" (4172936192)
+00:13:10.649 --> 00:13:25.554
+For a certain number of hours, right? I mean, what I recall for Apple TV, I don't think there was an hour limit is like, you could be out of it for a week. And as long as you didn't actually close out of that app manually on the Apple TV.
+
+119 "Ryan Richards" (4172936192)
+00:13:25.859 --> 00:13:30.869
+Interface then you're still not going to power on to the spectrum news.
+
+120 "Nathan Hess" (711442944)
+00:13:30.869 --> 00:13:39.119
+Yeah, that's right. Yeah. I don't know about the week's part, but yeah, like that.
+
+121 "Nathan Hess" (711442944)
+00:13:39.119 --> 00:13:46.409
+Ours could go by and you could do any number of other viewing events on other apps and come back.
+
+122 "Nathan Hess" (711442944)
+00:13:46.409 --> 00:13:52.769
+To the spectrum news app, or come back to and it would still power on 2.
+
+123 "Nathan Hess" (711442944)
+00:13:52.769 --> 00:13:56.549
+Go back to what you were watching when you finished your last session.
+
+124 "Julya Fridman" (1072131584)
+00:13:56.549 --> 00:14:04.589
+Because then you wouldn't test with this. Yeah, we tested it pretty extensively with last fall.
+
+125 "Nathan Hess" (711442944)
+00:14:04.589 --> 00:14:10.409
+She had a whole list of, like, if Dan's that we went through, I can, I can.
+
+126 "Nathan Hess" (711442944)
+00:14:10.409 --> 00:14:14.399
+Probably surface, at least my responses to that.
+
+127 "Julya Fridman" (1072131584)
+00:14:14.399 --> 00:14:22.529
+And from Katie, WH, uh, what do we need from from Katie the confirmation or the, um.
+
+128 "Ryan Richards" (4172936192)
+00:14:22.529 --> 00:14:34.079
+No, I don't think we need confirmation. We just need to know next steps of how we actually change the power on rules. And, like I wonder, I'm not sure if that's.
+
+129 "Julya Fridman" (1072131584)
+00:14:34.079 --> 00:14:44.159
+Do you think that's Katie? I'm not sure. I think it's I think it's we need to go to the product person for Apple TV.
+
+130 "Julya Fridman" (1072131584)
+00:14:44.159 --> 00:14:55.919
+And work with them, shouldn't we? Uh, there was somebody, uh, when this whole Apple issue came up, um.
+
+131 "Julya Fridman" (1072131584)
+00:14:55.919 --> 00:15:04.289
+Rocky ping me, and she had somebody on the on the call with her who was the product manager for Apple TV?
+
+132 "Julya Fridman" (1072131584)
+00:15:04.289 --> 00:15:09.749
+Um, I can see if I can get her name.
+
+133 "Julya Fridman" (1072131584)
+00:15:09.749 --> 00:15:14.279
+And maybe maybe we can just talk to her.
+
+134 "Ryan Richards" (4172936192)
+00:15:14.279 --> 00:15:18.869
+Okay, how it works.
+
+135 "Julya Fridman" (1072131584)
+00:15:18.869 --> 00:15:22.859
+Get the product person.
+
+136 "Julya Fridman" (1072131584)
+00:15:22.859 --> 00:15:28.979
+Okay, let me let me look into it.
+
+137 "Julya Fridman" (1072131584)
+00:15:28.979 --> 00:15:41.459
+Thanks, Sarah is so busy in her new world. It's like, impossible to get a hold of her. So, let me let me deal with it.
+
+138 "Ryan Richards" (4172936192)
+00:15:41.459 --> 00:15:45.539
+Sounds good, thank you. Um.
+
+139 "Ryan Richards" (4172936192)
+00:15:45.539 --> 00:15:55.409
+What else heads up we.
+
+140 "Ryan Richards" (4172936192)
+00:15:55.409 --> 00:16:05.309
+You got confirmation that the power on fix rolled out successfully last week, and they didn't see any notice will increase in call volume to call centers. So, that was good.
+
+141 "Julya Fridman" (1072131584)
+00:16:05.309 --> 00:16:08.699
+Um, so we'll.
+
+142 "Ryan Richards" (4172936192)
+00:16:08.699 --> 00:16:20.219
+Wait until the viewership data is good to pull. The recent may dealership. Data is good following this city upgrade and.
+
+143 "Ryan Richards" (4172936192)
+00:16:20.219 --> 00:16:24.059
+Then we can validate on our end that we're saying, hopefully.
+
+144 "Ryan Richards" (4172936192)
+00:16:24.059 --> 00:16:27.659
+The impact of the fix perfect.
+
+145 "Ryan Richards" (4172936192)
+00:16:27.659 --> 00:16:36.449
+Sighting yes, and also we were just our team was just meeting before this also exciting knowing that.
+
+146 "Ryan Richards" (4172936192)
+00:16:36.449 --> 00:16:44.519
+Uh, there's definitely didn't fix everything, so hopefully we see a positive impact and then we regroup and figure out. All right what are the gaps.
+
+147 "Ryan Richards" (4172936192)
+00:16:44.519 --> 00:16:47.969
+That we still see and get those addressed eventually.
+
+148 "Ryan Richards" (4172936192)
+00:16:53.099 --> 00:17:02.099
+Yeah, 1 of our analysts moved to Florida in the fall and didn't get spec, news is power on and hers was not fixed last week. So.
+
+149 "Ryan Richards" (4172936192)
+00:17:02.099 --> 00:17:16.289
+We know that there are issues post November like this fix was supposed to capture that whatever issues happen between March and November last year. Um, we know that there have been continued issues since November per the data.
+
+150 "Ryan Richards" (4172936192)
+00:17:16.289 --> 00:17:20.489
+That and analysis you all did, and anecdotally.
+
+151 "Ryan Richards" (4172936192)
+00:17:20.489 --> 00:17:28.139
+For example, Mike, a month or so ago, getting his new box in and not coming with spectrum uses power on in New York City.
+
+152 "Ryan Richards" (4172936192)
+00:17:28.139 --> 00:17:36.959
+Um, and then clearly, there's at least 1 person who, even in that period of last year didn't get there is fixed. So.
+
+153 "Ryan Richards" (4172936192)
+00:17:36.959 --> 00:17:40.499
+More to come.
+
+154 "Julya Fridman" (1072131584)
+00:17:40.499 --> 00:17:53.699
+Sounds good Nathan. Anything else on your end.
+
+155 "Nathan Hess" (711442944)
+00:17:57.779 --> 00:18:03.389
+Nothing from me, How's that query? Coming along?
+
+156 "Keelan Gallagher" (3329018880)
+00:18:03.389 --> 00:18:09.839
+It's coming as soon as I guess I'll send it to the group if we're not still on the call.
+
+157 "Keelan Gallagher" (3329018880)
+00:18:09.839 --> 00:18:15.539
+Yeah, I don't think I have.
+
+158 "Nathan Hess" (711442944)
+00:18:15.539 --> 00:18:21.539
+Anything else top of mind.
+
+159 "Nathan Hess" (711442944)
+00:18:21.539 --> 00:18:28.979
+For a moment, we'll probably be reaching out.
+
+160 "Nathan Hess" (711442944)
+00:18:28.979 --> 00:18:35.819
+You have a bunch this week and next just to make sure that we're seeing the same stuff in the in the reloaded data, but.
+
+161 "Nathan Hess" (711442944)
+00:18:35.819 --> 00:18:42.449
+As long as you'll be around, we'll look forward to chatting with you and yeah. You know, we're hoping.
+
+162 "Nathan Hess" (711442944)
+00:18:42.449 --> 00:18:52.769
+To probably send out both March and april's engagement report. By the end of the month. I had initially said.
+
+163 "Nathan Hess" (711442944)
+00:18:52.769 --> 00:18:56.939
+The 19th, but I don't think that's gonna happen. So if we can get it out by the.
+
+164 "Nathan Hess" (711442944)
+00:18:56.939 --> 00:19:01.019
+2526 or 31st that'd be great.
+
+165 "Nathan Hess" (711442944)
+00:19:04.019 --> 00:19:10.379
+Yeah, and are you taking any sorry? Are you taking any time off for Memorial day, or you'd be around.
+
+166 "Nathan Hess" (711442944)
+00:19:10.379 --> 00:19:14.999
+To validate, I'll do it around.
+
+167 "Guillaume Schwengler" (489824000)
+00:19:14.999 --> 00:19:18.419
+Priority number 1.
+
+168 "Nathan Hess" (711442944)
+00:19:18.419 --> 00:19:26.279
+Yeah, uh, Kim would, would you run your type.
+
+169 "Julya Fridman" (1072131584)
+00:19:26.279 --> 00:19:30.839
+Analysis of of the new data yes you can see.
+
+170 "Julya Fridman" (1072131584)
+00:19:30.839 --> 00:19:37.889
+The gaps, yes, that way Jim has created like a tracker. That's.
+
+171 "Julya Fridman" (1072131584)
+00:19:37.889 --> 00:19:44.039
+I mean, it goes, it's it's not spectrum news specific. It's more just overall, um, to kind of.
+
+172 "Julya Fridman" (1072131584)
+00:19:44.039 --> 00:19:52.439
+Uh, uh, and, uh, you know, hopefully some things will pop up.
+
+173 "Julya Fridman" (1072131584)
+00:19:52.439 --> 00:19:56.909
+If, uh, some red flags, we'll, we'll see some red flags if there's.
+
+174 "Julya Fridman" (1072131584)
+00:19:56.909 --> 00:20:02.129
+Any data issue and then reload.
+
+175 "Nathan Hess" (711442944)
+00:20:02.129 --> 00:20:10.589
+So, I had had John wells load a mapping file that maps line up to spectrum news feed.
+
+176 "Nathan Hess" (711442944)
+00:20:10.589 --> 00:20:14.519
+Region and market in the sandbox, I mean, uh.
+
+177 "Nathan Hess" (711442944)
+00:20:14.519 --> 00:20:27.569
+Yeah, I'll share that link with you. It's helpful for a lot of our reporting takes out of Excel step for us. So, I mean, hopefully that mapping is current, but.
+
+178 "Nathan Hess" (711442944)
+00:20:27.569 --> 00:20:33.359
+Andy, I need to have that environment.
+
+179 "Guillaume Schwengler" (489824000)
+00:20:33.359 --> 00:20:40.019
+Nice and we're starting to see more and more relating to spectrum .
+
+180 "Guillaume Schwengler" (489824000)
+00:20:40.019 --> 00:20:54.149
+So, we got keeping track of it for now, but you let us know how you want to report on it because we'll be able to add later on similar to how we do for spectrum use and Tableau. If you want to look at monthly.
+
+181 "Guillaume Schwengler" (489824000)
+00:20:54.149 --> 00:20:58.709
+It'd be good to know. Yeah. I don't know.
+
+182 "Nathan Hess" (711442944)
+00:20:58.709 --> 00:21:02.639
+Yeah, I haven't I haven't personally, I thought.
+
+183 "Nathan Hess" (711442944)
+00:21:02.639 --> 00:21:07.439
+I thought too deeply on what those reports might look like Ryan. I don't know if you have.
+
+184 "Nathan Hess" (711442944)
+00:21:07.439 --> 00:21:11.339
+Thoughts on that for plans.
+
+185 "Ryan Richards" (4172936192)
+00:21:11.339 --> 00:21:17.939
+No, not yet. Not yet. Cool.
+
+186 "Guillaume Schwengler" (489824000)
+00:21:17.939 --> 00:21:32.579
+Tbd, and with the apps, so the last quarter we had done by bundled so that we get more or less the same numbers. And what has.
+
+187 "Guillaume Schwengler" (489824000)
+00:21:32.579 --> 00:21:35.969
+In order to know the product bundle of the app.
+
+188 "Guillaume Schwengler" (489824000)
+00:21:35.969 --> 00:21:47.279
+So, we also keep updating that to see if there's a significant change for users or mobile app users, but we can.
+
+189 "Guillaume Schwengler" (489824000)
+00:21:47.279 --> 00:21:54.539
+At least on the relative bases and index values, we could report on it. If you want it.
+
+190 "Guillaume Schwengler" (489824000)
+00:21:57.809 --> 00:22:10.919
+Is that sell for spectrum news plus? Or is this so India you have your ship for both that we see coming through the spectrum use local feed and then the spectrum use plus feed.
+
+191 "Guillaume Schwengler" (489824000)
+00:22:10.919 --> 00:22:22.199
+But also, among our users authenticated users that are customers of charter over, we do the product bundle information as a customer to got it.
+
+192 "Guillaume Schwengler" (489824000)
+00:22:22.199 --> 00:22:26.219
+Got it cool.
+
+193 "Nathan Hess" (711442944)
+00:22:36.089 --> 00:22:40.349
+Anything else I can walk on with Michael likes to say.
+
+194 "Nathan Hess" (711442944)
+00:22:40.349 --> 00:22:46.139
+For that John Mike, I think.
+
+195 "Julya Fridman" (1072131584)
+00:22:46.139 --> 00:22:49.319
+Yeah, we're good. Love that.
+
+196 "Julya Fridman" (1072131584)
+00:22:49.319 --> 00:22:55.739
+Cool. Cool. Thanks guys. Well, hopefully, no data issues.
+
+197 "Nathan Hess" (711442944)
+00:22:55.739 --> 00:23:00.299
+Fingers crossed. Yeah. It seems like it's going well so far. So.
+
+198 "Nathan Hess" (711442944)
+00:23:00.299 --> 00:23:05.639
+I was happy to see that the upgrade went through smoothly this morning. Everything was back up on line.
+
+199 "Nathan Hess" (711442944)
+00:23:05.639 --> 00:23:11.189
+Kim actually said that the DB seemed to be performing pretty well this morning. So.
+
+200 "Nathan Hess" (711442944)
+00:23:11.189 --> 00:23:14.369
+I love that.
+
+201 "Julya Fridman" (1072131584)
+00:23:14.369 --> 00:23:19.049
+That'd be nice if there is, there was a side effect.
+
+202 "Nathan Hess" (711442944)
+00:23:19.049 --> 00:23:26.609
+Yeah, right yeah cleared out all the old zombie jobs.
+
+203 "Julya Fridman" (1072131584)
+00:23:26.609 --> 00:23:29.699
+All right cool. Talk to you guys soon.
+
+204 "Ryan Richards" (4172936192)
+00:23:29.699 --> 00:23:33.900
+Hi guys bye.
