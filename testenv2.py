@@ -86,7 +86,7 @@ openai.api_key = aikey
 response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
     messages=[{"role": "user", "content": f"Can you summarize the following transcript for me into detailed bullet points?:  \n {final[0:7000]}"}],
-    n = 3
+    n = 1
 )
 
 print(response)
