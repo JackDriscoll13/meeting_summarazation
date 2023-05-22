@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 
 def setup_openai_env():
-
+    
     load_dotenv()
     aikey = os.getenv('OPENAI_API_KEY')
     orgkey = os.getenv('OPENAI_ORG_KEY')
