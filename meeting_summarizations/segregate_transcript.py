@@ -14,5 +14,5 @@ def split_transcript(clean_transcript):
         index2 = i * chunklen
         #print(f'index1: {index1} index2: {index2}')
         chunks.append(clean_transcript[index1:index2])
-    print(f'Done \n Total Chunks: {splitter}, \n Chunk Length: {chunklen} chars')
+    print(f'Done \n Total Chunks: {splitter} \n Chunk Length: {chunklen} chars')
     return chunks

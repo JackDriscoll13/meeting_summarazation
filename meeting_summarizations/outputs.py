@@ -3,7 +3,7 @@ import time
 
 
 def summarize_usage(responses, start_time): 
-    total_tokens, completion_tokens, prompt_tokens = 0
+    total_tokens, completion_tokens, prompt_tokens = 0, 0, 0
     
     for i in responses: 
         total_tokens += int(i['choices']['0']['usage']['total_tokens'])
