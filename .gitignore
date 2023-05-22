@@ -3,7 +3,7 @@ tests/
 transcripts/
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__/S
 *.py[cod]
 *$py.class
 
