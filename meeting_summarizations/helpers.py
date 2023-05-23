@@ -11,6 +11,16 @@ def get_model_selection():
         case _: 
             raise AttributeError('Invalid Input')
 
-def concatenate_final_prompt(responses): 
-    text_only = [response['choices'][0]['message']['content'] for response in responses]
+def concatenate_final_prompt(responses, model):
+    if model == 'gpt-3.5-turbo':
+        text_only = [response['choices'][0]['message']['content'] for response in responses]
+    elif model == 'text-davinci-003':
+        text_only = [response['choices'][0]['text'] for response in responses]
     return '\n'.join(text_only)
+
+def clean_final_response(final_response, model): 
+    if model == 'gpt-3.5-turbo':
+        final_response_clean = final_response['choices'][0]['message']['content']
+    elif model == 'text-davinci-003':
+        final_response_clean = final_response['choices'][0]['text']
+    return final_response_clean

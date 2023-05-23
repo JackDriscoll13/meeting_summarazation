@@ -30,7 +30,7 @@ def get_responses(chunks, model):
 
 def get_final_response(text, model):
     """Gets one final response from model""" 
-    print('Generating final response ->', end = '')
+    print('Generating final response -> ', end = '')
     with Spinner():
         match model: 
             case 'text-davinci-003': 
@@ -42,10 +42,10 @@ def get_final_response(text, model):
             case 'gpt-3.5-turbo':
                 response = openai.ChatCompletion.create(
                     model="gpt-3.5-turbo",
-                    messages=[{"role": "user", "content": f"Can you rewrite these notes into concise, non-redundant meeting notes andaction items? Please write your detailed response in bulleted format:  \n {text}"}],
+                    messages=[{"role": "user", "content": f"Can you rewrite these notes into concise, non-redundant meeting notes and action items? Please write your detailed response in bulleted format:  \n {text}"}],
                     n = 1
                 )
-    print('Done')                 
+    print('done.')                 
     return response
 
 def test_connection(): 
